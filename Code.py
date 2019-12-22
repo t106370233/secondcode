@@ -63,8 +63,8 @@ print(X_test.shape)
 print(y_test.shape)
 print("-----------------------")
 #%%
-epochs= 70
-batch_size= 180
+epochs= 100
+batch_size= 200
 #%%
 model = Sequential()
 
